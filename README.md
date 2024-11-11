@@ -73,3 +73,11 @@ Please check out [LoopBack 4 documentation](https://loopback.io/doc/en/lb4/) to
 understand how you can continue to add features to this application.
 
 [![LoopBack](https://github.com/loopbackio/loopback-next/raw/master/docs/site/imgs/branding/Powered-by-LoopBack-Badge-(blue)-@2x.png)](http://loopback.io/)
+![api1](https://github.com/user-attachments/assets/dc186bb5-0860-4d76-93c4-406f395a38ed)
+![api2](https://github.com/user-attachments/assets/1f043275-984e-480e-a0ed-e2e6e474153c)
+![image](https://github.com/user-attachments/assets/51c6c9fb-c8e0-4ed3-96d8-ec33991dfe75)
+![image](https://github.com/user-attachments/assets/ecc77ff1-e990-45ea-a2d3-e981ef680172)
+![image](https://github.com/user-attachments/assets/ccb769f3-f806-4d65-b8da-1c744418196a)
+
+
+
